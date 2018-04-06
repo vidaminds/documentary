@@ -1,5 +1,3 @@
-# test
-test update example
+This folder for vidaminds includes:
+1. codes rule
 
-taixing bi 
-4.62.18
